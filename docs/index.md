@@ -67,6 +67,9 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
     ---
 
     - QGIS, ArcGIS Pro, Google Earth Engine
+    - ArcGIS Field Maps, ArcGIS Survey123, ArcGIS Quick Capture
+    - ArcGIS Online, ArcGIS Enterprise
+    - ArcGIS Experience Builder, ArcGIS Velocity, ArcGIS Data Pipelines, ArcGIS Dashboards
     - GDAL / OGR, GRASS GIS
     - Multispectral and SAR image analysis
     - Cloud Native Geospatial (COG, STAC, Zarr)
@@ -75,7 +78,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
+    - Python — ArcGIS API, ArcPy, GeoPandas, NumPy, Pandas, Matplotlib
     - R — sf, terra, ggplot2
     - JavaScript — Leaflet, MapLibre GL
     - SQL, PostgreSQL + PostGIS
