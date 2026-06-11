@@ -3,13 +3,6 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove job entries as needed (copy the format of an existing entry)
-- [ ] Add or remove education entries
-- [ ] Add or remove certifications
--->
 
 # Experience & Education
 
@@ -19,23 +12,50 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### Software Product Owner — Berntsen International
+*October 2018 – Present | Madison, WI, USA*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Led end-to-end product lifecycle for InfraMarker RFID, streamlining asset management workflows for Public Works and Utilities using RFID and GIS technologies.
+- Managed integrations with Esri GIS products (Field Maps, Survey123, ArcGIS Dashboards) and Biomark PIT RFID readers, expanding the platform into fish and wildlife conservation.
+- Designed and launched an automated RFID data capture solution with fixed and truck-mounted readers, visualized through ArcGIS Dashboards.
+- Acted as technical expert for pre-sales activities, customer proposals, and product implementation support.
+- Won the Berntsen High Potential Award for Substantial Opportunities for Growth at the Esri Partner Conference 2022.
 
 </div>
 
 <div class="timeline-entry" markdown>
 
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
+### Graduate Research Assistant — Department of Industrial & Systems Engineering, University of Wisconsin–Madison
+*September 2017 – August 2018 | Madison, WI, USA*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Conducted research within the Industrial & Systems Engineering department.
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Business Analyst — Berntsen International
+*August 2016 – July 2017 | Madison, WI, USA*
+
+- Supported business analysis and solution development for geospatial and asset management products.
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Graduate Research Assistant — Department of Aviation and Supply Chain Management, Auburn University
+*August 2014 – May 2016 | Auburn, AL, USA*
+
+- Conducted applied research in aviation and supply chain management.
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Business Analyst, Banking — Tata Consultancy Services Ltd.
+*December 2008 – July 2014 | Bangalore, India*
+
+- Delivered business analysis for banking clients across financial services engagements over nearly six years.
 
 </div>
 
@@ -45,22 +65,22 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### Master of Science in Management Information Systems
+**Auburn University, Raymond J. Harbert College of Business** | *2016*
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
+Graduated with a perfect GPA of 4.0/4.0.
 
 ---
 
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### Bachelor of Engineering in Electrical and Electronics
+**Visvesvaraya Technological University** | *2008*
+
+Graduated with a GPA of 3.7/4.0.
 
 ---
 
 ## Certifications
 
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
+*No certifications listed — add any relevant ones here.*
 
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+*Examples: Esri Technical Certification, PMP Certification, AWS Certified Cloud Practitioner*
